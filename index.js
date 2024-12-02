@@ -12,8 +12,8 @@ import fetch from 'node-fetch';
 
 // Bot configuration
 const CONFIG = {
-    OWNER_IDS: [781927192, 6991929801],
-    DEVELOPER_IDS: [78729172, 6991929801],
+    OWNER_IDS: [6521470375],
+    DEVELOPER_IDS: [6521470375],
     FILES: {
         PREMIUM_USERS: './premium.json',
         BLACKLIST: './blacklist.json'
@@ -27,7 +27,7 @@ const CONFIG = {
 
 // Rest of the imports and configurations remain the same...
 const tokens = [
-    'token bot lu',
+    '8116337820:AAEyGZRrD32ZJc65c-ScI86PYLsVVO4SEJ8',
 ];
 
 // Initialize bots
